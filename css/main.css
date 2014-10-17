@@ -1,0 +1,4 @@
+header {text-align: center;}
+#imageList {margin: 0 auto; padding: 0;width: 330px;}
+
+.imgItem {list-style: none; margin: 0 10px 10px 0; padding: 0; float: left;width:100px; height:100px; background-size: 100px 100px;}
